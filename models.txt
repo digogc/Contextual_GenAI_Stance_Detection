@@ -1,0 +1,7 @@
+Para a utilização do open_router, o modelo foi:
+google/gemma-3-27b-it:free
+
+Para a utilização do groq, o modelo foi:
+llama3-8b-8192
+
+observação: o groq é infinitamente mais rápido, mas uma hora começa a ser pago
